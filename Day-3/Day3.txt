@@ -1,0 +1,3 @@
+- Get stated with 21 Days coding challenge. Solved very first challenge for Day1. Long way to go.
+
+- Thinking of adding some styling to my Online Mirror project
